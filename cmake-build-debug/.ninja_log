@@ -1,0 +1,9 @@
+# ninja log v5
+0	523	7241621723836502	CMakeFiles/libraryManagement.dir/main.c.obj	4d308261f70d0320
+6	556	7241621724736323	CMakeFiles/libraryManagement.dir/input.c.obj	33dcd36f3e5db6ef
+14	617	7241621725456274	CMakeFiles/libraryManagement.dir/books.c.obj	a4cff7ed0bb95c92
+618	788	7241621727095692	libraryManagement.exe	66e752b889289eb5
+4	108	7241625751121189	CMakeFiles/libraryManagement.dir/input.c.obj	33dcd36f3e5db6ef
+108	232	7241625752260879	libraryManagement.exe	66e752b889289eb5
+2	110	7241626621545789	CMakeFiles/libraryManagement.dir/input.c.obj	33dcd36f3e5db6ef
+111	226	7241626622648835	libraryManagement.exe	66e752b889289eb5
